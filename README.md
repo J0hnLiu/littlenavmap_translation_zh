@@ -3,7 +3,7 @@
 
 此翻译由 John Liu（johnliu@johnliu.info）提供
 
-基于 Little Navmap 2.4.5。
+基于 <a href="https://github.com/albar965/littlenavmap/releases/">Little Navmap v2.4.5</a>。
 
 这是Little Navmap和Little Navconnect的语言扩展包。
 
@@ -82,5 +82,5 @@ https://github.com/J0hnLiu/littlenavmap_translation_cn
 
 应用程序版权所有 2015-2020 Alexander Barthel (albar965@mailbox.org).
 
-<p>此版本中文翻译由<a href="https://github.com/J0hnLiu">John Liu</a>提供，适用同样的<a href="http://www.gnu.org/licenses/gpl-3.0">GPL3</a>或任何更新版本的许可证。因水平有限，翻译可能存在一些不足，如有发现请<a href="https://johnliu.info/lnm">向我指出</a></p>，或者使用<a href="https://github.com/J0hnLiu/littlenavmap_translation_zh/issues">Issue Tracker<>
+<p>此版本中文翻译由<a href="https://github.com/J0hnLiu">John Liu</a>提供，适用同样的<a href="http://www.gnu.org/licenses/gpl-3.0">GPL3</a>或任何更新版本的许可证。因水平有限，翻译可能存在一些不足，如有发现请<a href="https://johnliu.info/lnm">向我指出</a><，或者使用<a href="https://github.com/J0hnLiu/littlenavmap_translation_zh/issues">Issue Tracker</a>/p>
 
