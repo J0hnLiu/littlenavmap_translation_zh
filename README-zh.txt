@@ -1,17 +1,17 @@
-# Little Navmap and Little Navconnect 语言包
+# Little Navmap 及 Little Navconnect 语言包
 
 
 此翻译由 John Liu（johnliu@johnliu.info）提供
 
-基于 Little Navmap 2.5。
+基于 <a href="https://github.com/albar965/littlenavmap/releases/">Little Navmap v2.4.5</a>。
 
 这是Little Navmap和Little Navconnect的语言扩展包。
 
 您可以将此软件包用于这些程序的旧版本或新版本。
 
-翻译可能丢失，如果版本不匹配，则使用英文文本作为后备。
+如用于不同的版本，部分翻译可能丢失。如果版本不匹配，将会使用英文文本作为后备。
 
-LittleNavMap的新版本可能已经包含此翻译。如果下载的存档文件包含此语言的翻译文件，请检查其内容。
+Little NavMap的新版本可能已经包含此翻译。如果下载的存档文件包含此语言的翻译文件，请检查其内容。
 
 ## 安装
 
@@ -72,9 +72,7 @@ https://github.com/albar965/littlenavmap
 
 https://github.com/albar965/littlenavconnect
 
-此中文翻译同样适用GPL3或任何更高版本的许可证。
-
-源码位置：
+中文翻译源代码位置：
 
 https://github.com/J0hnLiu/littlenavmap
 
@@ -84,4 +82,5 @@ https://github.com/J0hnLiu/littlenavmap_translation_cn
 
 应用程序版权所有 2015-2020 Alexander Barthel (albar965@mailbox.org).
 
-中文翻译版权所有 2020 John Liu（johnliu@johnliu.info）
+<p>此版本中文翻译由<a href="https://github.com/J0hnLiu">John Liu</a>提供，适用同样的<a href="http://www.gnu.org/licenses/gpl-3.0">GPL3</a>或任何更新版本的许可证。因水平有限，翻译可能存在一些不足，如有发现请<a href="https://johnliu.info/lnm">向我指出</a><，或者使用<a href="https://github.com/J0hnLiu/littlenavmap_translation_zh/issues">Issue Tracker</a>/p>
+
